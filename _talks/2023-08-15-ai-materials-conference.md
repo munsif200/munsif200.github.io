@@ -6,6 +6,7 @@ permalink: /talks/2023-08-15-ai-materials-conference
 venue: "International Conference on AI in Materials Science"
 date: 2023-08-15
 location: "Seoul, South Korea"
+excerpt: "This talk presents recent advances in applying deep learning techniques to materials informatics, focusing on computer vision applications for materials characterization and discovery."
 ---
 
 This talk presents recent advances in applying deep learning techniques to materials informatics, focusing on computer vision applications for materials characterization and discovery.
