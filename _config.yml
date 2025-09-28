@@ -1,31 +1,59 @@
-title: "Dr. Muhammad Munsif"
-email: munsif@ieee.org
-description: >-
-  AcademicPages: A ready-to-fork academic personal website template powered by Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+---
+# Site settings
+locale: "en-US"
+title: "Muhammad Munsif"
+name: "Muhammad Munsif"
+description: "AcademicPages-style site using Minimal Mistakes"
 url: "https://munsif200.github.io"
-theme: minima
+baseurl: ""
+repository: "munsif200/munsif200.github.io"
+
+# Theme (AcademicPages uses Minimal Mistakes)
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
+# Plugins (GitHub Pages–compatible)
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-scholar
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jemoji
+
+# Markdown + Math
 markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  hard_wrap: false
+
+# Pagination
 paginate: 5
 paginate_path: "/blog/page:num/"
-collections:
-  teaching:
-    output: true
-  posts:
-    output: true
-  talks:
-    output: true
-  publications:
-    output: true
+
+# Defaults
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      author: "Your Name"
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+# Author (shown in sidebar when author_profile: true)
+author:
+  name: "Muhammad Munsif"
+  bio: "Currently, pursuing PhD degree from Sejong University."
+  location: "Seoul, South Korea"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en&authuser=1"
+---
