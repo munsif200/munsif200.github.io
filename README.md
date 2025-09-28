@@ -55,11 +55,11 @@ Leading multiple research projects in AI, computer vision, and materials informa
 ## 🚀 Quick Access
 
 ### 🌐 View the Website
-**[https://munsif200.github.io/munsif200/](https://munsif200.github.io/munsif200/)**
+**[https://munsif200.github.io/](https://munsif200.github.io/)**
 
 ### 🔗 Connect & Collaborate
 
-[![Website](https://img.shields.io/badge/Website-munsif200.github.io-blue?style=for-the-badge&logo=github)](https://munsif200.github.io/munsif200/)
+[![Website](https://img.shields.io/badge/Website-munsif200.github.io-blue?style=for-the-badge&logo=github)](https://munsif200.github.io/)
 [![Email](https://img.shields.io/badge/Email-munsif3797@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:munsif3797@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-munsif200-black?style=for-the-badge&logo=github)](https://github.com/munsif200)
 

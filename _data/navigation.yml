@@ -4,6 +4,6 @@ main:
     url: "/"
   - title: "About"
     url: "/about/"
-  - title: "Markdown"
+  - title: "Markdown Demo"
     url: "/markdown/"
 ---
