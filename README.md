@@ -1,4 +1,4 @@
-## 🎓 About
+## 🎓 Dr. Muhammad Munsif
 
 Dr. Muhammad Munsif is a dedicated researcher specializing in:
 - **Computer Vision** & **Deep Learning**
