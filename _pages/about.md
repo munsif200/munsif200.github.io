@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Dr. Muhammad Munsif
 permalink: /about/
+title: "About Dr. Muhammad Munsif"
+author_profile: true
 ---
 
 ## Professional Background
