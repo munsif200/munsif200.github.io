@@ -1,0 +1,31 @@
+title: "Your Name"
+email: your@email.com
+description: >-
+  AcademicPages: A ready-to-fork academic personal website template powered by Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://munsif200.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-scholar
+markdown: kramdown
+paginate: 5
+paginate_path: "/blog/page:num/"
+collections:
+  teaching:
+    output: true
+  posts:
+    output: true
+  talks:
+    output: true
+  publications:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
