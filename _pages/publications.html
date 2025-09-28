@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<div class="wordwrap">You can also browse my <u><a href="https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en&authuser=1">Google Scholar profile</a></u>.</div>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
