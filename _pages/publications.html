@@ -9,6 +9,48 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
+## Peer-Reviewed Journal Publications
+
+{% for post in site.publications reversed %}
+  {% if post.venue contains 'Journal' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+## Conference Papers
+
+{% for post in site.publications reversed %}
+  {% if post.venue contains 'Conference' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+## Book Chapters
+
+*Coming soon*
+
+---
+
+## Preprints
+
+*Coming soon*
+
+---
+
+## Ongoing Submissions
+
+*Under review - details available upon request*
+
+---
+
+## All Publications
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
