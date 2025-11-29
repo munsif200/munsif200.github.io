@@ -28,6 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Lead Researcher in Deep Learning, Computer Vision & Materials Informatics"
   location         : "Seoul, South Korea"
+  googlescholar    : "https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en"
   employer         : "Intelligent Media Laboratory, Daeyang AI Center, Sejong University"
   uri              : # URL
   email            : "munsif@sju.ac.kr" 
