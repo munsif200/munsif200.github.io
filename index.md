@@ -1,4 +1,4 @@
-I am **Muhammad Munsif**, Lead Researcher at the Intelligent Media Laboratory, Daeyang AI Center, Sejong University, Seoul, South Korea. My research focuses on advancing AI applications in computer vision, action recognition, and materials informatics
+I am **Dr. Muhammad Munsif**, Lead Researcher at the Intelligent Media Laboratory, Daeyang AI Center, Sejong University, Seoul, South Korea. My research focuses on advancing AI applications in computer vision, action recognition, and materials informatics
 
 ---
 
