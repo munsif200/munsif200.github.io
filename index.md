@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Muhammad Munsif - Lead Researcher"
+title: "Dr. Muhammad Munsif - Lead Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,12 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I am **Muhammad Munsif**, Lead Researcher at the Intelligent Media Laboratory, Daeyang AI Center, Sejong University, Seoul, South Korea. My research focuses on advancing AI applications in computer vision, action recognition, and materials informatics.
-
-<p style="margin: 1.5rem 0;">
-  <a href="/cv/" class="cv-download" style="margin-right: 1rem;">View Full CV</a>
-  <a href="/assets/cv/Muhammad_Munsif_s_CV.pdf" class="cv-download" download>Download CV (PDF)</a>
-</p>
+I am **Muhammad Munsif**, Lead Researcher at the Intelligent Media Laboratory, Daeyang AI Center, Sejong University, Seoul, South Korea. My research focuses on advancing AI applications in computer vision, action recognition, and materials informatics
 
 ---
 
