@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Muhammad Munsif"
 title_separator          : "-"
-name                     : &name "Muhammad Munsif"
+name                     : &name "Dr. Muhammad Munsif"
 description              : &description "Lead Researcher in Deep Learning, Multimodal Action Recognition & Materials Informatics at Sejong University"
 url                      : https://munsif200.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "munsif200/munsif200.github.io"
 author:
   # Biographic information
   avatar           : "/assets/images/Munsif.jpg"
-  name             : "Muhammad Munsif"
+  name             : "Dr. Muhammad Munsif"
   pronouns         : # example: "she/her"  
   bio              : "Lead Researcher in Deep Learning, Computer Vision & Materials Informatics"
   location         : "Seoul, South Korea"
