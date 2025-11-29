@@ -11,21 +11,26 @@ redirect_from:
 
 I am **Dr. Muhammad Munsif**, a dedicated researcher specializing in Computer Vision, Deep Learning, and Materials Informatics at Sejong University, Seoul, South Korea.
 
-## 🔬 Research Expertise
+<p style="margin: 1.5rem 0;">
+  <a href="/cv/" class="cv-download" style="margin-right: 1rem;">View Full CV</a>
+  <a href="/assets/cv/Muhammad_Munsif_s_CV.pdf" class="cv-download" download>Download CV (PDF)</a>
+</p>
+
+## Research Expertise
 
 - **Computer Vision** & **Deep Learning**
 - **Action Recognition** & **Machine Learning**
 - **Virtual Reality (VR)** & **Augmented Reality (AR)**
 - **Materials Informatics**
 
-## 🏛️ Current Position
+## Current Position
 
 **Researcher** | Intelligent Media Laboratory, Sejong University, Seoul, South Korea  
 *September 2021 - Present*
 
 Leading multiple research projects in AI, computer vision, and materials informatics. Actively contributing to international collaborations and publishing in top-tier journals and conferences.
 
-## 🎯 Research Focus
+## Research Focus
 
 - Real-time action recognition and behavior analysis systems
 - Advanced deep learning architectures for computer vision
@@ -39,6 +44,7 @@ Leading multiple research projects in AI, computer vision, and materials informa
 This website showcases my academic work using the Academic Pages template, a professional Jekyll-based platform designed for researchers and academics. Here you can find:
 
 - **[Publications](/publications/)** - My research publications and academic contributions
+- **[Projects](/projects/)** - Research projects and collaborations
 - **[Talks](/talks/)** - Conference presentations and invited talks
 - **[Teaching](/teaching/)** - My teaching experience and materials
 - **[Portfolio](/portfolio/)** - Research projects and technical achievements
@@ -62,8 +68,8 @@ My research bridges theoretical AI concepts with practical real-world applicatio
 
 ---
 
-**📍 Location:** Seoul, South Korea  
-**🏛️ Institution:** Sejong University  
-**🔬 Research Areas:** Computer Vision • Deep Learning • VR/AR • Materials Informatics
+**Location:** Seoul, South Korea  
+**Institution:** Sejong University  
+**Research Areas:** Computer Vision, Deep Learning, VR/AR, Materials Informatics
 
 *Connect with me through the links in the sidebar to explore research collaborations and academic partnerships.*

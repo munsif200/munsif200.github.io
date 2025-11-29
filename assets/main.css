@@ -24,3 +24,21 @@ main {
 h1, h2, h3, h4 {
   color: #24292e;
 }
+
+/* CV Download Button Styling */
+.cv-download {
+  background-color: #0055A5;
+  color: #fff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.cv-download:hover {
+  background-color: #003d7a;
+  color: #fff;
+  text-decoration: none;
+}
