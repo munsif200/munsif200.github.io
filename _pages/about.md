@@ -1,77 +1,88 @@
 ---
 permalink: /about/
-title: "About Dr. Muhammad Munsif"
+title: "About Muhammad Munsif"
 author_profile: true
 ---
 
 ## Professional Background
 
-I am a dedicated researcher currently pursuing my PhD at Sejong University in Seoul, South Korea, specializing in cutting-edge artificial intelligence and computer vision technologies. My research focuses on developing innovative solutions that bridge theoretical AI concepts with practical real-world applications.
+I am a Lead Researcher at the Intelligent Media Laboratory, Daeyang AI Center, Sejong University in Seoul, South Korea. Currently pursuing a joint Master's and Ph.D. in Software, my research focuses on developing innovative deep learning solutions for action recognition, computer vision, and materials informatics.
 
 ## Research Areas
 
 ### Computer Vision & Deep Learning
-- Advanced neural network architectures for visual recognition
-- Real-time action recognition and behavior analysis systems
-- Deep learning applications in materials science
+- Multimodal and multi-view action recognition
+- Action understanding in dark and low-light conditions
+- Real-time surveillance and behavior analysis systems
 
 ### Virtual & Augmented Reality
 - Immersive technologies for educational applications
 - VR/AR solutions for industrial training and simulation
-- Human-computer interaction in virtual environments
+- Deep reinforcement learning for autonomous navigation
 
 ### Materials Informatics
-- AI-driven materials discovery and characterization
-- Machine learning applications in materials science
-- Data-driven approaches to materials property prediction
+- AI-driven materials discovery and property prediction
+- Machine learning for organic and inorganic material synthesis optimization
+- Data-driven approaches to energy storage systems
 
 ## Current Position
 
-**Researcher** | Intelligent Media Laboratory  
-Sejong University, Seoul, South Korea  
-*September 2021 - Present*
+**Lead Researcher & Lab Coordinator** | Intelligent Media Lab  
+Daeyang AI Center, Sejong University, Seoul, South Korea  
+*April 2023 - February 2026 (Expected)*
 
-Leading multiple research projects in AI, computer vision, and materials informatics. Actively contributing to international collaborations and publishing in top-tier journals and conferences in the field.
+Responsibilities:
+- Lab management and student co-supervision
+- Leading research in anomaly behavior recognition
+- Publishing in top-tier venues (IEEE TII, TIP, Knowledge-Based Systems)
+- Contributing to 8+ funded research projects
 
 ## Technical Expertise
 
 ### Programming Languages
-- **Python** - Primary research and development language
+- **Python** - Primary research and development
 - **MATLAB** - Scientific computing and algorithm development
+- **C++** - Performance-critical implementations
 
 ### AI/ML Frameworks
 - **TensorFlow** & **Keras** - Deep learning model development
 - **PyTorch** - Research and experimentation
 - **OpenCV** - Computer vision applications
+- **scikit-learn**, **NumPy**, **Pandas** - Data processing and analysis
 
 ### Development Tools
-- **Git** - Version control and collaboration
-- **Jupyter** - Interactive research and prototyping
-- **Unity** - VR/AR application development
+- **Git/GitHub** - Version control and collaboration
+- **Docker** - Containerization
+- **Unity 3D**, **Unreal Engine** - VR/AR application development
+- **Linux/Unix**, **HPC** - High-performance computing
+- **LaTeX/Overleaf** - Scientific writing
 
 ## Research Goals
 
-- 🎯 **Research Excellence:** Advancing AI applications in computer vision and materials science
-- 🤝 **Collaboration:** Building partnerships with academic institutions and industry leaders
-- 📚 **Knowledge Sharing:** Contributing to the global research community through publications and open-source projects
-- 🌐 **Innovation:** Bridging the gap between theoretical research and practical applications
+- 🎯 **Research Excellence:** Advancing AI applications in action recognition and materials science
+- 🤝 **Collaboration:** Building partnerships with academic institutions worldwide (30+ international co-authors)
+- 📚 **Knowledge Sharing:** Contributing through 40+ publications and 100+ peer reviews
+- 🌐 **Innovation:** Bridging the gap between theoretical research and industrial applications
 
-## Publications & Contributions
+## Publications & Impact
 
-I am actively involved in publishing research findings in international conferences and journals. My work contributes to the advancement of computer vision, deep learning, and their applications in various domains including materials science and immersive technologies.
+- **500+ Citations** | **h-index: 11** | **i10-index: 14**
+- Published in top-tier venues: IEEE TII (IF: 9.9), IEEE TIP (IF: 13.7), Knowledge-Based Systems (IF: 7.6)
+- 4 patents filed in deep learning and computer vision applications
+- Active reviewer for IEEE and Elsevier journals (100+ reviews)
 
 ## Contact & Collaboration
 
-I am always open to research collaborations, academic partnerships, and innovative projects. Feel free to reach out if you're interested in:
+I am open to research collaborations, academic partnerships, and innovative projects in:
 
-- Computer Vision and Deep Learning research
-- Materials Informatics applications
-- VR/AR educational projects
-- Academic collaborations and partnerships
+- Action Recognition and Behavior Analysis
+- Computer Vision for Industrial Applications
+- Materials Informatics and AI-driven Discovery
+- VR/AR Educational Technologies
 
-**Email:** [munsif3797@gmail.com](mailto:munsif3797@gmail.com)  
+**Email:** [munsif@sju.ac.kr](mailto:munsif@sju.ac.kr), [munsif@ieee.org](mailto:munsif@ieee.org)  
 **Location:** Seoul, South Korea  
-**Institution:** Sejong University
+**Institution:** Intelligent Media Laboratory, Daeyang AI Center, Sejong University
 
 ---
 

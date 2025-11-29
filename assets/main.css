@@ -27,18 +27,67 @@ h1, h2, h3, h4 {
 
 /* CV Download Button Styling */
 .cv-download {
-  background-color: #0055A5;
+  background-color: #003366;
   color: #fff;
-  padding: 0.4rem 0.8rem;
-  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
   text-decoration: none;
   display: inline-block;
   font-weight: 500;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
 .cv-download:hover {
-  background-color: #003d7a;
+  background-color: #002244;
   color: #fff;
   text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+  color: #003366;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid #e1e4e8;
+  margin: 2rem 0;
+}
+
+/* Links */
+a {
+  color: #0055a5;
+}
+
+a:hover {
+  color: #003366;
+}
+
+/* Lists in publications */
+ol {
+  line-height: 1.8;
+}
+
+ol li {
+  margin-bottom: 0.5rem;
 }
