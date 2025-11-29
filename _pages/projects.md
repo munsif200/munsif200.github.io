@@ -9,84 +9,130 @@ author_profile: true
 
 ## Participated Research Projects
 
-### Current Projects
+### Ongoing Projects
 
 | Project Title | Period | Role | Funding Source |
 |---------------|--------|------|----------------|
-| AI-Driven Materials Discovery and Characterization | 2023 - Present | Lead Researcher | National Research Foundation of Korea (NRF) |
-| Real-time Action Recognition for Smart Surveillance | 2022 - Present | Co-Investigator | Ministry of Science and ICT, Korea |
-| Immersive VR/AR Technologies for Education | 2022 - Present | Researcher | Brain Korea 21 (BK21) Program |
+| Anomaly Behavior Recognition for Accident Prevention in the Connected Vision Environment | Jan 2023 – Feb 2026 | Researcher | NRF of Korea (PID: RS-2023-NR076686) |
+| Brain Korea 21 (BK21 FOUR) Education Research Group for Intelligent Drones | Mar 2022 – Feb 2026 | BK21 Scholar | National Research Foundation of Korea |
+| Data HUB for Solid Electrolyte Materials Based on SyncroLab Data Cloud | Jul 2024 – Dec 2025 | Researcher | NRF of Korea (PID: RS-2024-00446825) |
 
 ### Completed Projects
 
 | Project Title | Period | Role | Funding Source |
 |---------------|--------|------|----------------|
-| Deep Learning for Human Activity Recognition | 2021 - 2023 | Research Assistant | Sejong University Research Grant |
-| Computer Vision Applications in Manufacturing | 2020 - 2022 | Team Member | Industry-Academia Collaboration |
-| Intelligent Video Analytics System | 2019 - 2021 | Graduate Researcher | National Research Foundation of Korea (NRF) |
+| Development of a Recycling Technology for Lithium Iron Phosphate Batteries | Sep 2023 – Apr 2024 | Researcher | Ministry of Education, Korea (PID: 2020-R1-A6A1A03038540) |
+| DL-based Anomaly Detection and Predictive Maintenance Management System | Jan 2023 – Jun 2023 | Researcher | Seoul R&D Program (PID: 2023R1A2C1005788) |
+| Open Platform Technology for Autonomous Participation of Energy Network Components | Sep 2021 – Dec 2023 | Research Assistant | NRF of Korea (PID: 2019M3F2A1073179) |
+| Bridging the Early Diagnosis and Treatment Gap of Brain Diseases | Sep 2020 – Aug 2021 | Research Assistant | EU Horizon 2020 Research Innovation Program |
+| Virtual Reality-based Learning and Training Strategy for Children | Jan 2018 – Aug 2020 | Research Assistant | HCR Endowment Fund (PMUI-22/VOL-IV/3410) |
 
 ---
 
 ## Project Details
 
-### AI-Driven Materials Discovery and Characterization
-**Period:** 2023 - Present  
-**Role:** Lead Researcher  
-**Funding:** National Research Foundation of Korea (NRF)
-
-Developing machine learning and deep learning models for accelerated materials discovery. The project focuses on:
-- Predicting material properties using neural networks
-- Automating materials characterization from microscopy images
-- Creating AI-assisted workflows for materials scientists
-
----
-
-### Real-time Action Recognition for Smart Surveillance
-**Period:** 2022 - Present  
-**Role:** Co-Investigator  
-**Funding:** Ministry of Science and ICT, Korea
-
-Building efficient deep learning models for real-time human action recognition in surveillance systems. Key contributions include:
-- Novel attention-based architectures for action recognition
-- Efficient inference methods for edge devices
-- Multi-camera tracking and behavior analysis
-
----
-
-### Immersive VR/AR Technologies for Education
-**Period:** 2022 - Present  
+### Anomaly Behavior Recognition for Accident Prevention
+**Period:** January 2023 – February 2026  
 **Role:** Researcher  
-**Funding:** Brain Korea 21 (BK21) Program
+**Funding:** National Research Foundation of Korea (PID: RS-2023-NR076686)
 
-Developing virtual and augmented reality applications for educational purposes. Project highlights:
-- Interactive VR learning environments
-- AR-based educational tools for STEM subjects
-- User experience studies and evaluation
+Developing advanced deep learning models for anomaly behavior recognition in connected vision environments. Focus on:
+- Multi-view action recognition in surveillance systems
+- Dark and low-light condition analysis
+- Real-time accident prevention systems
 
 ---
 
-### Deep Learning for Human Activity Recognition
-**Period:** 2021 - 2023  
-**Role:** Research Assistant  
-**Funding:** Sejong University Research Grant
+### Brain Korea 21 (BK21 FOUR) Education Research Group for Intelligent Drones
+**Period:** March 2022 – February 2026  
+**Role:** BK21 Scholar  
+**Funding:** National Research Foundation of Korea
 
-Researched and developed deep learning approaches for recognizing human activities from video and sensor data. Outcomes:
-- Published multiple papers in top-tier venues
-- Developed open-source implementations
-- Created benchmark datasets
+Research and education program focusing on intelligent drone technologies:
+- Computer vision for drone applications
+- Autonomous navigation systems
+- AI-powered aerial monitoring
+
+---
+
+### Data HUB for Solid Electrolyte Materials
+**Period:** July 2024 – December 2025  
+**Role:** Researcher  
+**Funding:** NRF of Korea (PID: RS-2024-00446825)
+
+Materials informatics project based on SyncroLab Data Cloud:
+- Machine learning for materials property prediction
+- Data-driven materials discovery
+- Optimization of organic and inorganic material synthesis
+
+---
+
+### Recycling Technology for Lithium Iron Phosphate Batteries
+**Period:** September 2023 – April 2024  
+**Role:** Researcher  
+**Funding:** Ministry of Education, Korea (PID: 2020-R1-A6A1A03038540)
+
+Development of recycling technology maximizing carbon dioxide utilization:
+- AI-assisted battery materials analysis
+- Sustainable energy solutions
+- Environmental impact optimization
+
+---
+
+### DL-based Anomaly Detection and Predictive Maintenance
+**Period:** January 2023 – June 2023  
+**Role:** Researcher  
+**Funding:** Seoul R&D Program (PID: 2023R1A2C1005788)
+
+Predictive maintenance management system for industrial machinery:
+- Deep learning-based anomaly detection
+- Industrial defect recognition
+- Real-time monitoring systems
+
+---
+
+### Open Platform Technology for Energy Network Components
+**Period:** September 2021 – December 2023  
+**Role:** Research Assistant  
+**Funding:** NRF of Korea (PID: 2019M3F2A1073179)
+
+Research on autonomous participation in energy networks:
+- Energy production and consumption prediction
+- Neural network-based forecasting
+- Smart grid optimization
+
+---
+
+### Bridging Brain Disease Diagnosis Gap
+**Period:** September 2020 – August 2021  
+**Role:** Research Assistant  
+**Funding:** EU Horizon 2020 Research Innovation Program
+
+International collaboration on early diagnosis of brain diseases:
+- Facial expression analysis for neurological disorders
+- Deep learning for medical imaging
+- Cross-border research collaboration
+
+---
+
+### Virtual Reality-based Learning for Children
+**Period:** January 2018 – August 2020  
+**Role:** Research Assistant  
+**Funding:** HCR Endowment Fund (PMUI-22/VOL-IV/3410)
+
+VR/AR technologies for educational applications:
+- Immersive learning environments
+- Game-based road safety education
+- Child-friendly VR interfaces
 
 ---
 
 ## Research Collaboration
 
-I am always open to research collaborations. If you are interested in any of these research areas, please feel free to [contact me](mailto:munsif3797@gmail.com).
+I am open to research collaborations in:
+- Computer Vision and Deep Learning
+- Action Recognition Systems
+- Materials Informatics
+- VR/AR Educational Technologies
 
----
-
-## Portfolio
-
-For detailed project showcases, visit the [Portfolio](/portfolio/) page.
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+**Contact:** [munsif@sju.ac.kr](mailto:munsif@sju.ac.kr)

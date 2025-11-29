@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,174 +13,175 @@ redirect_from:
   <a href="/assets/cv/Muhammad_Munsif_s_CV.pdf" class="cv-download" download>Download CV (PDF)</a>
 </p>
 
-## Dr. Muhammad Munsif
+## Muhammad Munsif
 
-**PhD Researcher in Computer Vision, Deep Learning & Materials Informatics**  
-Intelligent Media Laboratory, Sejong University, Seoul, South Korea
+**Lead Researcher** | Intelligent Media Laboratory, Daeyang AI Center, Sejong University, Seoul, South Korea
+
+📧 [munsif@sju.ac.kr](mailto:munsif@sju.ac.kr) | [munsif@ieee.org](mailto:munsif@ieee.org)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en) | 💻 [GitHub](https://github.com/munsif200)
 
 ---
 
 ## Research Interests
 
-- Computer Vision and Deep Learning
-- Action Recognition and Behavior Analysis
-- Virtual Reality (VR) and Augmented Reality (AR)
-- Materials Informatics and AI-driven Materials Discovery
-- Machine Learning for Scientific Applications
+Deep Learning • Multimodal Action Recognition • Multi-view Action Recognition • Computer Vision • Deep Reinforcement Learning • Virtual and Augmented Reality • Materials and Energy Informatics
 
 ---
 
 ## Research Profile Overview
 
-| Metric | Value |
-|--------|-------|
-| Total Publications | 15+ |
-| Journal Articles | 10+ |
-| Conference Papers | 5+ |
-| Citations | 100+ |
-| h-index | 5 |
-| Research Projects | 5+ |
+| **Publication Output** | **Research Impact** | **Innovation & Recognition** |
+|------------------------|---------------------|------------------------------|
+| Total Publications: **40** | Total Citations: **500+** | Patents: **4** |
+| SCI/SCIE/Scopus Journals: 14 | h-index: 11 | Research Projects: 8 |
+| First Author SCI/SCIE: 10 | i10-index: 14 | Awards: 4 |
+| Under Review: 11 | Average IF (Q1): 8.2 | IEEE Member: Active |
+| Conference Papers: 11 | Top Journals: *IEEE TII, TIP* | Research Experience: 5+ years |
+| Book Chapters: 1 | Highest IF: 9.9 | Certifications: 5 |
+| Preprints (arXiv): 3 | Q1 Papers: 11 | International Co-authors: 30+ |
+| Domestic Conferences: 4 | Peer Reviews: 100+ | Teaching: 4 Courses |
 
 ---
 
 ## Education
 
-* **Ph.D. in Computer Science** (In Progress)
-  * Sejong University, Seoul, South Korea
-  * Expected Completion: 2024
-  * Focus: Computer Vision, Deep Learning, Materials Informatics
-  * Supervisor: Prof. Sang Woon Lee
+**Joint Master's and Ph.D. in Software** | Sep 2021 – Feb 2026 (Expected)  
+Sejong University, Seoul, South Korea  
+*Thesis:* A Study of Multi-view and Multimodal Deep Learning Techniques for Action Recognition in Dark and Low-Light Surveillance Systems
 
-* **M.S. in Computer Science**
-  * Sejong University, Seoul, South Korea
-  * Completed: 2021
-  * Focus: Deep Learning and Computer Vision
-
-* **B.S. in Computer Science**
-  * University of Engineering and Technology, Peshawar, Pakistan
-  * Completed: 2018
+**Bachelor of Science in Computer Science** | 2016 – 2020  
+Islamia College, Peshawar, Pakistan  
+*Thesis:* Deep Reinforcement Learning Assisted Navigation Framework for Autonomous Car in A Virtual City
 
 ---
 
 ## Academic & Research Experience
 
-* **Researcher** (September 2021 - Present)
-  * Intelligent Media Laboratory, Sejong University
-  * Seoul, South Korea
-  * Leading research in Computer Vision, Deep Learning, VR/AR, and Materials Informatics
-  * Collaborating on international research projects
-  * Publishing in top-tier journals and conferences
+**Lead Researcher & Lab Coordinator** | Apr 2023 – Feb 2026  
+Intelligent Media Lab, Daeyang AI Center, Sejong University, Seoul, South Korea  
+*Lab Management, Students Co-supervision*
 
-* **Graduate Research Assistant** (March 2019 - August 2021)
-  * Sejong University, Seoul, South Korea
-  * Conducted research in action recognition and deep learning
-  * Developed novel deep learning architectures for computer vision applications
+**Teacher Assistant** (Graduate Computer Vision & Intelligent Drone Courses) | Mar 2023 – Aug 2024  
+Department of Software, Sejong University, Seoul, South Korea
 
----
+**Research Assistant** (NRF Projects) | Sep 2021 – Mar 2023  
+Intelligent Media Lab, Daeyang AI Center, Sejong University, Seoul, South Korea
 
-## Participated Projects
+**Teacher Assistant** (Undergraduate Digital Image Processing and ANN Courses) | Sep 2020 – Aug 2021  
+Dept of Computer Science, Islamia College Peshawar, Pakistan
 
-See the [Projects](/projects/) page for detailed information on research projects.
+**Lab Coordinator & Research Assistant** (Lab Management, DL & VR Projects) | Sep 2017 – Aug 2021  
+Digital Image Processing Lab, Islamia College Peshawar, Peshawar, Pakistan
 
 ---
 
 ## Publications
 
-### Selected Journal Articles
+For complete publication list, see the [Publications](/publications/) page.
 
-<ul>{% for post in site.publications %}
-  {% if post.venue contains 'Journal' %}
-    {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}</ul>
+### Selected SCI/SCIE Journal Publications
 
-### Selected Conference Papers
+1. **M. Munsif** et al., "Action understanding in low-light and pitch-dark conditions: A comprehensive survey," *Engineering Applications of Artificial Intelligence*, 2025, IF: 8.0, Q1
+2. **M. Munsif** et al., "Hierarchical attention-based framework for enhanced prediction and optimization of organic and inorganic material synthesis," *Advanced Engineering Informatics*, 2025, IF: 9.9, Q1
+3. **M. Munsif** et al., "Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications," *IEEE Transactions on Industrial Informatics*, 2024, IF: 9.9, Q1
+4. **M. Munsif** et al., "Contextual visual and motion salient fusion framework for action recognition in dark environments," *Knowledge-Based Systems*, 2024, IF: 7.6, Q1
+5. **M. Munsif** et al., "Optimized efficient attention-based network for facial expressions analysis in neurological health care," *Computers in Biology and Medicine*, 2024, IF: 6.3, Q1
 
-<ul>{% for post in site.publications %}
-  {% if post.venue contains 'Conference' %}
-    {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}</ul>
+---
 
-For the complete list of publications, visit the [Publications](/publications/) page.
+## Patents
+
+1. **Deep Learning-Based Refinement of Benchmark Datasets for Object Detection** (2025) — Application No: 10-2023-0067500
+2. **Method and Device for Proposing Multi-Stage Candidate Regions Based on Neural Network Structure Search for Object Detection** (2025) — Application No: DP250272
+3. **Method for Dark-Adaptive Infrared-Based Activity Recognition in Industrial Applications** (2024) — Application No: DP250031
+4. **Method for Predicting Energy Production and Consumption Data Using Convolutional Neural Network Conversion Model** (2023) — Application No: 10-2023-0067500
 
 ---
 
 ## Awards & Honors
 
-* Best Paper Award, International Conference on Computer Vision
-* Graduate Research Excellence Award, Sejong University
-* Brain Korea 21 (BK21) Scholarship Recipient
-* Outstanding Research Contribution Award
+- **Fully Funded Master's and Ph.D Scholarship** | Sep 2021 – Feb 2026  
+  Sejong University, Seoul, South Korea
+
+- **BK21 Four Scholarship** from National Research Foundation of Korea | Sep 2023 – Feb 2026  
+  Sejong University, Seoul, South Korea
+
+- **Fully Funded Bachelor's Degree Scholarship** from Higher Education Commission of Pakistan | Jan 2018 – Sep 2020  
+  Islamia College Peshawar, Pakistan
+
+- **Laptop Award** under Prime Minister's Laptop Scheme for Outstanding Students | 2019  
+  Higher Education Commission of Pakistan
 
 ---
 
 ## Skills & Competencies
 
-### Programming Languages
-* Python (Expert)
-* MATLAB (Advanced)
-* C++ (Intermediate)
-* JavaScript (Intermediate)
-
-### AI/ML Frameworks
-* TensorFlow / TensorFlow 2.x
-* PyTorch
-* Keras
-* OpenCV
-* Scikit-learn
-
-### Development Tools & Platforms
-* Git / GitHub
-* Jupyter Notebook / JupyterLab
-* Unity (VR/AR Development)
-* Docker
-* Linux / Unix Systems
-
-### Research Tools
-* LaTeX for scientific writing
-* MATLAB for data analysis
-* Blender for 3D modeling
+| **Category** | **Skills** |
+|--------------|------------|
+| **Academic Skills** | Manuscript Writing, Research Proposal Writing, Conference Presentations, Curriculum Development, Student Mentoring, Collaborative Research, Project Management, Peer Review |
+| **Research Skills** | Machine Learning & Deep Learning, Computer Vision, Object Detection, Neural Architecture Search, Image Processing, Data Analysis, Statistical Modeling, Experimental Design, Literature Review, Grant Writing |
+| **Technical Expertise** | Python, MATLAB, C++, TensorFlow, PyTorch, Keras, OpenCV, scikit-learn, NumPy, Pandas, Unity 3D, Unreal Engine |
+| **Development Tools** | Git/GitHub, Docker, Linux/Unix, High-Performance Computing (HPC), Edge Devices (Raspberry Pi, Jetson Nano), Cloud Computing (AWS/Google Cloud), LaTeX, Overleaf |
+| **Languages** | English (Fluent), Urdu (Native), Pashto (Native) |
 
 ---
 
-## Certifications
+## Professional Certifications
 
-* Deep Learning Specialization - Coursera (DeepLearning.AI)
-* TensorFlow Developer Certificate - Google
-* Machine Learning - Stanford University (Coursera)
+- **Deep Learning Specialization** — DeepLearning.AI (Andrew Ng) | Coursera  
+  [Credential ID: H8BWY9ZVC3HZ](https://coursera.org/verify/specialization/H8BWY9ZVC3HZ)
+
+- **Structuring Machine Learning Projects** — DeepLearning.AI | Coursera  
+  [Credential ID: JXD39GC96RDS](https://coursera.org/verify/JXD39GC96RDS)
+
+- **Machine Learning** — Stanford University (Andrew Ng) | Coursera  
+  [Credential ID: 2RRNLVJBBCNW](https://coursera.org/verify/2RRNLVJBBCNW)
+
+- **Introduction to XR: VR, AR, and MR Foundations** — Unity Technologies | Coursera  
+  [Credential ID: FJUD5JAUA6RN](https://coursera.org/verify/FJUD5JAUA6RN)
+
+- **Advanced Writing** — University of California, Irvine | Coursera  
+  [Credential ID: 9SQD7N5UVLJD](https://coursera.org/verify/9SQD7N5UVLJD)
 
 ---
 
 ## Professional Memberships & Review Contributions
 
-* Member, IEEE (Institute of Electrical and Electronics Engineers)
-* Reviewer for IEEE Transactions on Neural Networks and Learning Systems
-* Reviewer for Expert Systems with Applications
-* Reviewer for Pattern Recognition
-* Member, Korean Society of Computer Vision
+**IEEE (Institute of Electrical and Electronics Engineers)** | 2023 – Present  
+Student Member | Member ID: 99765745
 
----
+**MSCA Postdoctoral Fellowship Evaluator** | 2024 – Present  
+Marie Skłodowska-Curie Actions (MSCA), European Commission  
+NeuroInsight Programme, Royal College of Surgeons in Ireland  
+*Evaluated 3+ fellowship proposals for competitive EU research funding*
 
-## Talks & Presentations
+### Active Reviewer for Leading International Journals and Conferences (100+ Reviews)
 
-<ul>{% for post in site.talks %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
----
-
-## Teaching
-
-<ul>{% for post in site.teaching %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+- IEEE Transactions on Image Processing (2+)
+- IEEE Transactions on Industrial Informatics (2+)
+- IEEE Transactions on Intelligent Transportation Systems (4+)
+- IEEE Transactions on Circuits and Systems for Video Technology (2+)
+- IEEE CVPR (2+)
+- Engineering Applications of Artificial Intelligence, Elsevier (9+)
+- Expert Systems with Applications, Elsevier (6+)
+- Knowledge-Based Systems, Elsevier (11+)
+- Neurocomputing, Elsevier (7+)
+- Pattern Recognition, Elsevier (2+)
+- Neural Networks, Elsevier (5+)
+- Information Sciences, Elsevier (1+)
+- Computer Vision and Image Understanding, Elsevier (1+)
 
 ---
 
 ## References
 
-Available upon request.
+**Dr. Muhammad Sajjad, Ph.D. (Sejong University, South Korea)**  
+Associate Professor, Department of Computer Science, Islamia College Peshawar, Pakistan  
+Email: [muhammad.sajjad@icp.edu.pk](mailto:muhammad.sajjad@icp.edu.pk) | Phone: +92333-9319519
+
+**Dr. Fath U Min Ullah, Ph.D. (Sejong University, South Korea)**  
+Assistant Professor, School of Engineering and Computing, University of Lancashire, Preston, UK  
+Email: [fumullah@uclan.ac.uk](mailto:fumullah@uclan.ac.uk) | Phone: +44777-1685724
 
 ---
 

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Muhammad Munsif"
+title                    : "Muhammad Munsif"
 title_separator          : "-"
-name                     : &name "Dr. Muhammad Munsif"
-description              : &description "PhD Researcher in Computer Vision, Deep Learning & Materials Informatics at Sejong University"
+name                     : &name "Muhammad Munsif"
+description              : &description "Lead Researcher in Deep Learning, Multimodal Action Recognition & Materials Informatics at Sejong University"
 url                      : https://munsif200.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,18 +24,18 @@ repository               : "munsif200/munsif200.github.io"
 author:
   # Biographic information
   avatar           : "/assets/images/Munsif.jpg"
-  name             : "Dr. Muhammad Munsif"
+  name             : "Muhammad Munsif"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher in Computer Vision & AI at Sejong University"
+  bio              : "Lead Researcher in Deep Learning, Computer Vision & Materials Informatics"
   location         : "Seoul, South Korea"
-  employer         : "Sejong University"
+  employer         : "Intelligent Media Laboratory, Daeyang AI Center, Sejong University"
   uri              : # URL
-  email            : "munsif3797@gmail.com" 
+  email            : "munsif@sju.ac.kr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=YJ5X6HYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
