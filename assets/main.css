@@ -99,83 +99,89 @@ ol li {
 /* Publication Page Header */
 .publications-header {
   text-align: center;
-  margin-bottom: 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 2px solid #e1e4e8;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem 0;
 }
 
 .publications-header h1 {
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   color: #003366;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
 }
 
 .google-scholar-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.6rem;
   background: linear-gradient(135deg, #4285f4, #357ae8);
   color: #fff !important;
-  padding: 0.6rem 1.2rem;
-  border-radius: 25px;
+  padding: 0.75rem 1.5rem;
+  border-radius: 30px;
   text-decoration: none !important;
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 1rem;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(66, 133, 244, 0.3);
+  box-shadow: 0 4px 15px rgba(66, 133, 244, 0.35);
 }
 
 .google-scholar-link:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(66, 133, 244, 0.4);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(66, 133, 244, 0.5);
   color: #fff !important;
+  background: linear-gradient(135deg, #357ae8, #2a65c9);
 }
 
 /* Section Headers */
 .pub-section {
-  margin: 2.5rem 0;
+  margin: 3rem 0;
 }
 
 .pub-section-header {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  padding: 1rem 1.25rem;
-  background: linear-gradient(135deg, #003366, #004080);
+  gap: 0.85rem;
+  padding: 1.1rem 1.5rem;
+  background: linear-gradient(135deg, #003366 0%, #004d99 100%);
   color: #fff;
-  border-radius: 8px 8px 0 0;
+  border-radius: 12px 12px 0 0;
   margin-bottom: 0;
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0, 51, 102, 0.2);
 }
 
 .pub-section-header .section-icon {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 .pub-section-content {
   background: #fff;
   border: 1px solid #e1e4e8;
   border-top: none;
-  border-radius: 0 0 8px 8px;
-  padding: 1.5rem;
+  border-radius: 0 0 12px 12px;
+  padding: 1.75rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
 }
 
 /* Publication Entry Card */
 .pub-entry {
   display: flex;
-  gap: 1rem;
-  padding: 1.25rem;
-  margin-bottom: 1rem;
-  background: #f8fafc;
-  border-radius: 8px;
-  border-left: 4px solid #003366;
-  transition: all 0.2s ease;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  background: linear-gradient(to right, #f8fafc, #ffffff);
+  border-radius: 10px;
+  border-left: 5px solid #003366;
+  transition: all 0.25s ease;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 
 .pub-entry:hover {
-  background: #f0f4f8;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  transform: translateX(4px);
+  background: linear-gradient(to right, #f0f4f8, #f8fafc);
+  box-shadow: 0 4px 16px rgba(0, 51, 102, 0.1);
+  transform: translateX(6px);
+  border-left-color: #0066cc;
 }
 
 .pub-entry:last-child {
@@ -184,16 +190,17 @@ ol li {
 
 .pub-number {
   flex-shrink: 0;
-  width: 32px;
-  height: 32px;
-  background: #003366;
+  width: 38px;
+  height: 38px;
+  background: linear-gradient(135deg, #003366, #004d99);
   color: #fff;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: 600;
-  font-size: 0.9rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 8px rgba(0, 51, 102, 0.25);
 }
 
 .pub-content {
@@ -203,13 +210,15 @@ ol li {
 .pub-title {
   font-weight: 600;
   color: #1a1a2e;
-  margin-bottom: 0.5rem;
-  line-height: 1.4;
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+  font-size: 1.05rem;
 }
 
 .pub-title a {
   color: #0055a5;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 .pub-title a:hover {
@@ -221,72 +230,82 @@ ol li {
   font-size: 0.95rem;
   color: #555;
   margin-bottom: 0.5rem;
+  line-height: 1.5;
 }
 
 .pub-authors .highlight-author {
-  font-weight: 600;
+  font-weight: 700;
   color: #003366;
+  background: linear-gradient(to bottom, transparent 60%, rgba(0, 102, 204, 0.15) 60%);
+  padding: 0 2px;
 }
 
 .pub-venue {
   font-style: italic;
   color: #666;
   font-size: 0.95rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
 }
 
 .pub-meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.5rem;
+  gap: 0.6rem;
+  margin-top: 0.75rem;
 }
 
 /* Badges for Impact Factor and Quartile */
 .badge {
   display: inline-flex;
   align-items: center;
-  padding: 0.25rem 0.6rem;
-  border-radius: 12px;
-  font-size: 0.75rem;
-  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.78rem;
+  font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 0.3px;
 }
 
 .badge-if {
-  background: #e3f2fd;
+  background: linear-gradient(135deg, #e3f2fd, #bbdefb);
   color: #1565c0;
   border: 1px solid #90caf9;
+  box-shadow: 0 1px 3px rgba(21, 101, 192, 0.15);
 }
 
 .badge-q1 {
-  background: #e8f5e9;
-  color: #2e7d32;
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
+  color: #1b5e20;
   border: 1px solid #a5d6a7;
+  box-shadow: 0 1px 3px rgba(27, 94, 32, 0.15);
 }
 
 .badge-q2 {
-  background: #fff3e0;
+  background: linear-gradient(135deg, #fff3e0, #ffe0b2);
   color: #e65100;
   border: 1px solid #ffcc80;
+  box-shadow: 0 1px 3px rgba(230, 81, 0, 0.15);
 }
 
 .badge-year {
-  background: #f3e5f5;
-  color: #7b1fa2;
+  background: linear-gradient(135deg, #f3e5f5, #e1bee7);
+  color: #6a1b9a;
   border: 1px solid #ce93d8;
+  box-shadow: 0 1px 3px rgba(106, 27, 154, 0.15);
 }
 
 .badge-preprint {
-  background: #fce4ec;
-  color: #c2185b;
+  background: linear-gradient(135deg, #fce4ec, #f8bbd9);
+  color: #ad1457;
   border: 1px solid #f48fb1;
+  box-shadow: 0 1px 3px rgba(173, 20, 87, 0.15);
 }
 
 .badge-conference {
-  background: #e0f2f1;
+  background: linear-gradient(135deg, #e0f2f1, #b2dfdb);
   color: #00695c;
   border: 1px solid #80cbc4;
+  box-shadow: 0 1px 3px rgba(0, 105, 92, 0.15);
 }
 
 /* Ongoing Submissions Table */
@@ -294,25 +313,28 @@ ol li {
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  border-radius: 8px;
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
 }
 
 .submissions-table thead {
-  background: linear-gradient(135deg, #003366, #004080);
+  background: linear-gradient(135deg, #003366 0%, #004d99 100%);
 }
 
 .submissions-table thead th {
   color: #fff;
-  padding: 1rem;
+  padding: 1.1rem 1.25rem;
   text-align: left;
   font-weight: 600;
   border-bottom: none;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .submissions-table tbody tr {
-  transition: background 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 .submissions-table tbody tr:nth-child(even) {
@@ -320,13 +342,15 @@ ol li {
 }
 
 .submissions-table tbody tr:hover {
-  background: #e3f2fd;
+  background: linear-gradient(to right, #e3f2fd, #f0f7ff);
+  transform: scale(1.005);
 }
 
 .submissions-table td {
-  padding: 0.9rem 1rem;
+  padding: 1rem 1.25rem;
   border-bottom: 1px solid #e1e4e8;
   vertical-align: middle;
+  font-size: 0.95rem;
 }
 
 .submissions-table tbody tr:last-child td {
@@ -337,71 +361,114 @@ ol li {
 .status-badge {
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  padding: 0.3rem 0.75rem;
-  border-radius: 15px;
-  font-size: 0.8rem;
-  font-weight: 500;
+  gap: 0.4rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  white-space: nowrap;
 }
 
 .status-review {
-  background: #fff3e0;
+  background: linear-gradient(135deg, #fff3e0, #ffe0b2);
   color: #e65100;
+  border: 1px solid #ffcc80;
 }
 
 .status-revision {
-  background: #e8f5e9;
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
   color: #2e7d32;
+  border: 1px solid #a5d6a7;
 }
 
 /* Stats Summary Box */
 .pub-stats {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 1rem;
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  background: linear-gradient(135deg, #f8fafc, #e3f2fd);
-  border-radius: 12px;
-  border: 1px solid #e1e4e8;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  margin-bottom: 2.5rem;
+  padding: 2rem;
+  background: linear-gradient(145deg, #f0f7ff 0%, #e8f4fd 50%, #dbeafe 100%);
+  border-radius: 16px;
+  border: 1px solid rgba(0, 51, 102, 0.1);
+  box-shadow: 0 4px 20px rgba(0, 51, 102, 0.08);
 }
 
 .stat-item {
   text-align: center;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
   background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 51, 102, 0.05);
+}
+
+.stat-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 51, 102, 0.12);
 }
 
 .stat-number {
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: 2.8rem;
+  font-weight: 800;
   color: #003366;
   line-height: 1;
+  background: linear-gradient(135deg, #003366, #0066cc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Fallback for browsers that don't support background-clip: text */
+@supports not (background-clip: text) {
+  .stat-number {
+    background: none;
+    -webkit-background-clip: initial;
+    -webkit-text-fill-color: initial;
+    color: #003366;
+  }
 }
 
 .stat-label {
-  font-size: 0.85rem;
-  color: #666;
-  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 /* Responsive adjustments */
+@media (max-width: 992px) {
+  .pub-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .pub-entry {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.75rem;
   }
   
   .pub-number {
-    width: 28px;
-    height: 28px;
-    font-size: 0.8rem;
+    width: 32px;
+    height: 32px;
+    font-size: 0.85rem;
   }
   
   .pub-stats {
     grid-template-columns: repeat(2, 1fr);
+    padding: 1.25rem;
+  }
+  
+  .stat-number {
+    font-size: 2rem;
+  }
+  
+  .stat-label {
+    font-size: 0.8rem;
   }
   
   .submissions-table {
@@ -410,6 +477,40 @@ ol li {
   
   .submissions-table th,
   .submissions-table td {
-    padding: 0.6rem;
+    padding: 0.75rem;
+  }
+  
+  .pub-section-header {
+    font-size: 1rem;
+    padding: 0.9rem 1rem;
+  }
+  
+  .google-scholar-link {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .pub-stats {
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+  
+  .stat-item {
+    padding: 1rem 0.5rem;
+  }
+  
+  .stat-number {
+    font-size: 1.75rem;
+  }
+  
+  .pub-meta {
+    gap: 0.4rem;
+  }
+  
+  .badge {
+    font-size: 0.7rem;
+    padding: 0.25rem 0.5rem;
   }
 }
