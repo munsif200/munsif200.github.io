@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Muhammad Munsif"
+title                    : 
 title_separator          : "-"
 name                     : &name "Dr. Muhammad Munsif"
 description              : &description "Lead Researcher in Deep Learning, Multimodal Action Recognition & Materials Informatics at Sejong University"
