@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Dr. Muhammad Munsif - Lead Researcher"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## Welcome
 
