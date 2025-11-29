@@ -94,7 +94,7 @@ For complete publication list, see the [Publications](/publications/) page.
 1. **Deep Learning-Based Refinement of Benchmark Datasets for Object Detection** (2025) — Application No: 10-2023-0067500
 2. **Method and Device for Proposing Multi-Stage Candidate Regions Based on Neural Network Structure Search for Object Detection** (2025) — Application No: DP250272
 3. **Method for Dark-Adaptive Infrared-Based Activity Recognition in Industrial Applications** (2024) — Application No: DP250031
-4. **Method for Predicting Energy Production and Consumption Data Using Convolutional Neural Network Conversion Model** (2023) — Application No: 1020230067500
+4. **Method for Predicting Energy Production and Consumption Data Using Convolutional Neural Network Conversion Model** (2023) — Application No: 10-2023-0067500
 
 ---
 
