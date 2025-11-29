@@ -308,20 +308,6 @@ ol li {
   box-shadow: 0 1px 3px rgba(0, 105, 92, 0.15);
 }
 
-.badge-status-review {
-  background: linear-gradient(135deg, #fff3e0, #ffe0b2);
-  color: #e65100;
-  border: 1px solid #ffcc80;
-  box-shadow: 0 1px 3px rgba(230, 81, 0, 0.15);
-}
-
-.badge-status-revision {
-  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
-  color: #2e7d32;
-  border: 1px solid #a5d6a7;
-  box-shadow: 0 1px 3px rgba(46, 125, 50, 0.15);
-}
-
 /* Ongoing Submissions Table */
 .submissions-table {
   width: 100%;
@@ -387,12 +373,14 @@ ol li {
   background: linear-gradient(135deg, #fff3e0, #ffe0b2);
   color: #e65100;
   border: 1px solid #ffcc80;
+  box-shadow: 0 1px 3px rgba(230, 81, 0, 0.15);
 }
 
 .status-revision {
   background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
   color: #2e7d32;
   border: 1px solid #a5d6a7;
+  box-shadow: 0 1px 3px rgba(46, 125, 50, 0.15);
 }
 
 /* Stats Summary Box */
