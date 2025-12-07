@@ -173,18 +173,6 @@ NeuroInsight Programme, Royal College of Surgeons in Ireland
 
 ---
 
-## References
-
-**Dr. Muhammad Sajjad, Ph.D. (Sejong University, South Korea)**  
-Associate Professor, Department of Computer Science, Islamia College Peshawar, Pakistan  
-Email: [muhammad.sajjad@icp.edu.pk](mailto:muhammad.sajjad@icp.edu.pk) | Phone: +92333-9319519
-
-**Dr. Fath U Min Ullah, Ph.D. (Sejong University, South Korea)**  
-Assistant Professor, School of Engineering and Computing, University of Lancashire, Preston, UK  
-Email: [fumullah@uclan.ac.uk](mailto:fumullah@uclan.ac.uk) | Phone: +44777-1685724
-
----
-
 <p style="margin-top: 2rem;">
   <a href="/assets/cv/Muhammad_Munsif_s_CV.pdf" class="cv-download" download>Download Full CV (PDF)</a>
 </p>
