@@ -20,13 +20,14 @@ Dr. Muhammad Munsif is a dedicated researcher specializing in:
 
 Leading multiple research projects in AI, computer vision, and materials informatics. Actively contributing to international collaborations and publishing in top-tier journals and conferences.
 
-## 📊 GitHub Profile Overview
+## GitHub Profile Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munsif200&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munsif200&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=munsif200&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=munsif200&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=munsif200&theme=default&hide_border=true)
+
 
 ###   GitHub Activity
 - 🔭 Currently working on: **AI-powered computer vision research projects**
