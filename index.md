@@ -20,73 +20,16 @@ Muhammad Munsif (Student Member, IEEE) received his Ph.D. degree in Software Con
 
 ## Selected Publications
 
-<div class="selected-pubs">
+<ol class="pub-list">
+  <li><strong><a href="https://doi.org/10.1109/TII.2024.3431070" target="_blank">Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">IEEE Transactions on Industrial Informatics</span>, 2024.</li>
 
-  <div class="pub-entry">
-    <div class="pub-content">
-      <div class="pub-title"><a href="https://doi.org/10.1109/TII.2024.3431070" target="_blank">Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications</a></div>
-      <div class="pub-authors"><span class="highlight-author">Muhammad Munsif</span>, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik</div>
-      <div class="pub-venue">IEEE Transactions on Industrial Informatics, 2024</div>
-      <div class="pub-meta">
-        <span class="badge badge-if">IF: 9.9</span>
-        <span class="badge badge-q1">Q1</span>
-        <span class="badge badge-year">2024</span>
-      </div>
-    </div>
-  </div>
+  <li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1474034625003556" target="_blank">Hierarchical attention-based framework for enhanced prediction and optimization of organic and inorganic material synthesis</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Altaf Hussain, Zulfiqar Ahmad Khan, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">Advanced Engineering Informatics</span>, 2025.</li>
 
-  <div class="pub-entry">
-    <div class="pub-content">
-      <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1474034625003556" target="_blank">Hierarchical attention-based framework for enhanced prediction and optimization of organic and inorganic material synthesis</a></div>
-      <div class="pub-authors"><span class="highlight-author">Muhammad Munsif</span>, Altaf Hussain, Zulfiqar Ahmad Khan, Min Je Kim, Sung Wook Baik</div>
-      <div class="pub-venue">Advanced Engineering Informatics, 2025</div>
-      <div class="pub-meta">
-        <span class="badge badge-if">IF: 9.9</span>
-        <span class="badge badge-q1">Q1</span>
-        <span class="badge badge-year">2025</span>
-      </div>
-    </div>
-  </div>
+  <li><strong><a href="https://doi.org/10.1016/j.engappai.2025.111996" target="_blank">Action understanding in low-light and pitch-dark conditions: A comprehensive survey</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Samee Ullah Khan, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">Engineering Applications of Artificial Intelligence</span>, 2025.</li>
 
-  <div class="pub-entry">
-    <div class="pub-content">
-      <div class="pub-title"><a href="https://doi.org/10.1016/j.engappai.2025.111996" target="_blank">Action understanding in low-light and pitch-dark conditions: A comprehensive survey</a></div>
-      <div class="pub-authors"><span class="highlight-author">Muhammad Munsif</span>, Samee Ullah Khan, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik</div>
-      <div class="pub-venue">Engineering Applications of Artificial Intelligence, 2025</div>
-      <div class="pub-meta">
-        <span class="badge badge-if">IF: 8.0</span>
-        <span class="badge badge-q1">Q1</span>
-        <span class="badge badge-year">2025</span>
-      </div>
-    </div>
-  </div>
+  <li><strong><a href="https://doi.org/10.1016/j.knosys.2024.112480" target="_blank">Contextual visual and motion salient fusion framework for action recognition in dark environments</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Samee Ullah Khan, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">Knowledge-Based Systems</span>, 2024.</li>
 
-  <div class="pub-entry">
-    <div class="pub-content">
-      <div class="pub-title"><a href="https://doi.org/10.1016/j.knosys.2024.112480" target="_blank">Contextual visual and motion salient fusion framework for action recognition in dark environments</a></div>
-      <div class="pub-authors"><span class="highlight-author">Muhammad Munsif</span>, Samee Ullah Khan, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik</div>
-      <div class="pub-venue">Knowledge-Based Systems, 2024</div>
-      <div class="pub-meta">
-        <span class="badge badge-if">IF: 7.6</span>
-        <span class="badge badge-q1">Q1</span>
-        <span class="badge badge-year">2024</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-entry">
-    <div class="pub-content">
-      <div class="pub-title"><a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">Optimized efficient attention-based network for facial expressions analysis in neurological health care</a></div>
-      <div class="pub-authors"><span class="highlight-author">Muhammad Munsif</span>, Muhammad Sajjad, Mohib Ullah, et al.</div>
-      <div class="pub-venue">Computers in Biology and Medicine, 2024</div>
-      <div class="pub-meta">
-        <span class="badge badge-if">IF: 6.3</span>
-        <span class="badge badge-q1">Q1</span>
-        <span class="badge badge-year">2024</span>
-      </div>
-    </div>
-  </div>
-
-</div>
+  <li><strong><a href="https://doi.org/10.1016/j.compbiomed.2024.108822" target="_blank">Optimized efficient attention-based network for facial expressions analysis in neurological health care</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Muhammad Sajjad, Mohib Ullah, et al. <span class="pub-venue-plain">Computers in Biology and Medicine</span>, 2024.</li>
+</ol>
 
 <p><a href="/publications/" class="btn btn--primary">View All Publications →</a></p>
