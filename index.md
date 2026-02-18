@@ -49,13 +49,13 @@ Thesis: Deep Reinforcement Learning Assisted Navigation Framework for Autonomous
 <p><strong>Lead Researcher &amp; Lab Coordinator</strong> (Lab Management, Students Co-supervision) — Apr 2023 – Feb 2026<br>
 Intelligent Media Lab, Daeyang AI Center, Sejong University, Seoul, South Korea</p>
 
-<p><strong>Teacher Assistant</strong> (Graduate Computer Vision &amp; Intelligent Drone Courses) — Mar 2023 – Aug 2024<br>
+<p><strong>Teaching Assistant</strong> (Graduate Computer Vision &amp; Intelligent Drone Courses) — Mar 2023 – Aug 2024<br>
 Department of Software, Sejong University, Seoul, South Korea</p>
 
 <p><strong>Research Assistant</strong> (NRF Projects) — Sep 2021 – Mar 2023<br>
 Intelligent Media Lab, Daeyang AI Center, Sejong University, Seoul, South Korea</p>
 
-<p><strong>Teacher Assistant</strong> (Undergraduate Digital Image Processing and ANN Courses) — Sep 2020 – Aug 2021<br>
+<p><strong>Teaching Assistant</strong> (Undergraduate Digital Image Processing and ANN Courses) — Sep 2020 – Aug 2021<br>
 Dept of Computer Science, Islamia College Peshawar, Pakistan</p>
 
 <p><strong>Lab Coordinator &amp; Research Assistant</strong> (Lab Management, DL &amp; VR Projects) — Sep 2017 – Aug 2021<br>
