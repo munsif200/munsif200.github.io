@@ -36,8 +36,8 @@ body {
   line-height: 1.65 !important;
 }
 
-/* Bio paragraph justified on homepage */
-.page__content > p:first-of-type {
+/* Bio paragraph justified on homepage only */
+.layout--single .page__content > p:first-of-type {
   text-align: justify;
 }
 h2 {
