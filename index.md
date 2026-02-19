@@ -25,7 +25,6 @@ Muhammad Munsif (Student Member, IEEE) received his Ph.D. degree in Software Con
 <ol class="pub-list">
 
   <li><strong><a href="https://doi.org/10.1109/TII.2024.3431070" target="_blank">Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">IEEE Transactions on Industrial Informatics</span>, 2024.</li>
-
   <li>
     <strong>
       <a href="https://doi.org/10.1016/j.neucom.2026.133046" target="_blank">
@@ -42,7 +41,7 @@ Muhammad Munsif (Student Member, IEEE) received his Ph.D. degree in Software Con
       </a>
     </strong>. 
     Adnan Hussain, Kaleem Ullah, Muhammad Afaq, <strong class="pub-author-me">Muhammad Munsif</strong>, Altaf Hussain, Sung Wook Baik. 
-    <span class="pub-venue-plain">Artificial Intelligence Review</span>, 2026. :contentReference[oaicite:0]{index=0}
+    <span class="pub-venue-plain">Artificial Intelligence Review</span>, 2026
   </li>
   <li><strong><a href="https://www.sciencedirect.com/science/article/pii/S1474034625003556" target="_blank">Hierarchical attention-based framework for enhanced prediction and optimization of organic and inorganic material synthesis</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Altaf Hussain, Zulfiqar Ahmad Khan, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">Advanced Engineering Informatics</span>, 2025.</li>
 
