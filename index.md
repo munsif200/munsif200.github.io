@@ -58,12 +58,10 @@ Muhammad Munsif (Student Member, IEEE) received his Ph.D. degree in Software Con
 ## Education
 
 <p><strong>Joint Master's and Ph.D. in Software Convergence</strong> — Sep 2021 – Feb 2026<br>
-Sejong University, Seoul, South Korea<br>
-Thesis: A Study of Multi-view and Multimodal Deep Learning Techniques for Action Recognition in Dark and Low-Light Surveillance Systems</p>
+Sejong University, Seoul, South Korea<br></p>
 
 <p><strong>Bachelor of Science in Computer Science</strong> — 2016 – 2020<br>
-Islamia College, Peshawar, Pakistan<br>
-Thesis: Deep Reinforcement Learning Assisted Navigation Framework for Autonomous Car in A Virtual City</p>
+Islamia College, Peshawar, Pakistan<br></p>
 
 ## Academic &amp; Research Experience
 
