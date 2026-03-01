@@ -25,7 +25,7 @@ ol.pub-list li {
 
 /* ---- Global typography tweaks ---- */
 body {
-  font-size: 16px !important;
+  font-size: 15px !important;
   line-height: 1.6 !important;
 }
 .page__content p,
@@ -39,7 +39,9 @@ body {
 /* Bio paragraph justified on homepage only */
 .layout--single .page__content > p:first-of-type {
   text-align: justify;
-}h2 {
+}
+
+h2 {
   font-size: 1.1em !important;
   font-weight: 600 !important;
   margin-top: 1.6em !important;
@@ -57,12 +59,16 @@ h3 {
   list-style: none !important;
   padding: 0 !important;
   margin: 0 0 1.2em 0 !important;
-}.news-list li {
+}
+
+.news-list li {
   font-size: 0.85em !important;
   padding: 4px 0 !important;
   border-bottom: 1px solid #f0f0f0;
   line-height: 1.5 !important;
-}.news-list li:last-child {
+}
+
+.news-list li:last-child {
   border-bottom: none;
 }
 
