@@ -26,6 +26,16 @@ Muhammad Munsif (Student Member, IEEE) received a Ph.D. degree in Software Conve
 <ol class="pub-list">
 
   <li><strong><a href="https://doi.org/10.1109/TII.2024.3431070" target="_blank">Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">IEEE Transactions on Industrial Informatics</span>, 2024.</li>
+    <li>
+  <strong>
+    <a href="https://ieeexplree.ieee.org/abstract/document/11558290" target="_blank">
+      A Comprehensive Survey of Connected Vision Systems: Multi-View Multi-Camera Tracking, Re-Identification, and Action Understanding
+    </a>
+  </strong>.
+  <strong class="pub-author-me">Muhammad Munsif</strong>, Waqas Ahmad, Amjid Ali, Mohib Ullah, Adnan Hussain, Sung Wook Baik.
+  <span class="pub-venue-plain">IEEE Internet of Things Journal</span>, 2026.
+</li>
+  
   <li>
     <strong>
       <a href="https://doi.org/10.1016/j.neucom.2026.133046" target="_blank">
