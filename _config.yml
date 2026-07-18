@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : 
 title_separator          : "-"
 name                     : &name "Muhammad Munsif"
-description              : &description "Postdoctoral Research Associate at Graduate School of Artificial Intelligence, Ulsan National Institute of Science and Technology (UNIST)"
+description              : &description "Postdoctoral Research Associate (InnoCORE Fellow) at Graduate School of Artificial Intelligence, Ulsan National Institute of Science and Technology (UNIST)"
 url                      : https://munsif200.github.io
 baseurl                  : ""
 repository               : "munsif200/munsif200.github.io"
