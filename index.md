@@ -8,7 +8,7 @@ Muhammad Munsif (Student Member, IEEE) received a Ph.D. degree in Software Conve
 ## News & Updates
 
 <ul class="news-list">
-    <li>🎓 <strong>Mar 2026</strong> — Appointed as <strong>Postdoctoral Research Associate</strong> at Ulsan National Institute of Science and Technology (UNIST), South Korea</li>
+    <li>🎓 <strong>Mar 2026</strong> — Appointed as <strong> Postdoctoral Research Associate (InnoCORE Fellow)</strong> at Ulsan National Institute of Science and Technology (UNIST), South Korea</li>
   <li>🏆 <strong>Feb 2026</strong> — Received the <strong>Outstanding Research Award</strong> presented by Sejong University, Seoul, South Korea</li>
   <li>🏆 <strong>Nov 2025</strong> — Received the <strong>Best Paper Award</strong> at the 2025 Fall Conference, Standard Certification Safety Society, South Korea</li>
   <li>🏆 <strong>Mar 2025</strong> — Received <strong>Award of KRW 500,000 for Best Presentation</strong> on MS-COCO Dataset Quality Evaluation (Challenge Track), Intelligent Media Laboratory, Sejong University</li>
@@ -28,8 +28,8 @@ Muhammad Munsif (Student Member, IEEE) received a Ph.D. degree in Software Conve
   <li><strong><a href="https://doi.org/10.1109/TII.2024.3431070" target="_blank">Darkness-Adaptive Action Recognition: Leveraging Efficient Tubelet Slow-Fast Network for Industrial Applications</a></strong>. <strong class="pub-author-me">Muhammad Munsif</strong>, Noman Khan, Altaf Hussain, Min Je Kim, Sung Wook Baik. <span class="pub-venue-plain">IEEE Transactions on Industrial Informatics</span>, 2024.</li>
     <li>
   <strong>
-    <a href="https://ieeexplree.ieee.org/abstract/document/11558290" target="_blank">
-      A Comprehensive Survey of Connected Vision Systems: Multi-View Multi-Camera Tracking, Re-Identification, and Action Understanding
+    <a href="https://ieeexplore.ieee.org/abstract/document/11558290/" target="_blank">
+      Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey
     </a>
   </strong>.
   <strong class="pub-author-me">Muhammad Munsif</strong>, Waqas Ahmad, Amjid Ali, Mohib Ullah, Adnan Hussain, Sung Wook Baik.
