@@ -198,16 +198,19 @@ Digital Image Processing Lab, Islamia College Peshawar, Peshawar, Pakistan</p>
 Student Member | Member ID: 99765745<br>
 Active engagement in peer review, conferences, and professional development</p>
 
-<p><strong>MSCA Postdoctoral Fellowship Evaluator</strong> — 2024 – Present<br>
-Marie Skłodowska-Curie Actions (MSCA), European Commission<br>
-NeuroInsight Programme, Royal College of Surgeons in Ireland<br>
-Evaluated 3+ fellowship proposals for competitive EU research funding</p>
+<p><strong>Proposal Reviewer, Evaluated 3+ postdoctoral fellowship proposals <a href="https://www.neuroinsight.eu/" target="_blank">NeuroInsight Marie Skłodowska-Curie Actions (MSCA) COFUND Fellowship Programme</a></strong> — 2024 – Present<br>
+<a href="https://www.rcsi.com/" target="_blank">Royal College of Surgeons in Ireland (RCSI)</a><br>.</p>
 
 <p><strong>Active Reviewer for Leading International Journals and Conferences</strong> — 2023 – Present<br>
 Total Reviews Completed: 100+ across top-tier venues in AI, Computer Vision, and Engineering</p>
 
 <p><strong>Reviewing venues:</strong></p>
 <ul>
+<li>IEEE Transactions on Pattern Analysis and Machine Intelligence (1+)</li>
+<li>IEEE Transactions on Neural Networks and Learning Systems (1+)</li>
+<li>IEEE Transactions on Information Forensics and Security (1+)</li>
+<li>IEEE Internet of Things Journal (1+)</li>
+<li>IEEE Signal Processing Letters (1+)</li>
 <li>IEEE Transactions on Image Processing (2+)</li>
 <li>IEEE Transactions on Industrial Informatics (2+)</li>
 <li>IEEE Transactions on Intelligent Transportation Systems (4+)</li>
