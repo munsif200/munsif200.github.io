@@ -138,6 +138,13 @@ Digital Image Processing Lab, Islamia College Peshawar, Peshawar, Pakistan</p>
 ## Awards
 
 <ul>
+<li><strong>3rd Place, MoCha 2026 Challenge on Parkinsonian Gait</strong> — Sep 2026<br>
+  <a href="https://mocha.care-pd.ca/leaderboard.html" target="_blank">MoCha Workshop at ECCV 2026 — leaderboard</a>. Team unist_visionlab, UNIST<br>
+  Ranked 3rd of 58 teams on the hidden-site benchmark for domain-generalizable UPDRS-gait severity estimation</li>
+
+<li><strong>2nd Place, Dexterous Grasp Motion Challenge</strong> — Sep 2026<br>
+  <a href="https://hands-workshop.org/workshop2026.html" target="_blank">DexHAND (HANDS) Workshop at ECCV 2026</a>. Team UVLL HandDex, UNIST, with the University of Aberdeen, UK<br>
+  Ranked 2nd on the private Objaverse benchmark; highest easy-track score.</li>
 <li><strong>Outstanding Research Award</strong> — Feb 2026<br>
   Sejong University, Seoul, South Korea</li>
 
