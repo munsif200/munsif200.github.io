@@ -8,10 +8,10 @@ Muhammad Munsif (Student Member, IEEE) received a Ph.D. degree in Software Conve
 ## News & Updates
 
 <ul class="news-list">
-      <li>🥉 <strong>Sep 2026</strong> — <strong>3rd Place (of 58 teams)</strong> in the <strong>MoCha 2026 Challenge on Parkinsonian Gait</strong>, MoCha Workshop at ECCV 2026. Team: unist_visionlab</li>
-  <li>🥈 <strong>Sep 2026</strong> — <strong>2nd Place</strong> in the <strong>Dexterous Grasp Motion Challenge</strong>, DexHAND (HANDS) Workshop at ECCV 2026. Team: UVLL HandDex (UNIST with University of Aberdeen, UK), highest easy-track score of all submissions.</li>
-  <li>📝 <strong>2026</strong> — Appointed <strong>Guest Editor</strong> for the <em>Journal of Imaging</em> (MDPI) Special Issue on <em>Deep Learning for Image and Video Understanding Under Adverse and Degraded Conditions</em> (submissions open until 31 May 2027)</li>
-  <li>📄 <strong>2026</strong> — Paper published in <strong>IEEE Internet of Things Journal</strong>: <em>Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey</em></li>
+      <li>🥉 <strong>Sep 2026</strong> — <strong>3rd Place (of 58 teams)</strong> in the <a href="https://mocha.care-pd.ca/leaderboard.html" target="_blank"><strong>MoCha 2026 Challenge on Parkinsonian Gait</strong></a>, MoCha Workshop at ECCV 2026. Team: unist_visionlab.</li>
+  <li>🥈 <strong>Sep 2026</strong> — <strong>2nd Place</strong> in the <strong>Dexterous Grasp Motion Challenge</strong>, <a href="https://hands-workshop.org/workshop2026.html" target="_blank">DexHAND (HANDS) Workshop at ECCV 2026</a>. Team: UVLL HandDex (UNIST with University of Aberdeen, UK), highest easy-track score of all submissions.</li>
+  <li>📝 <strong>2026</strong> — Appointed <strong>Guest Editor</strong> for the <em>Journal of Imaging</em> (MDPI) Special Issue on <a href="https://www.mdpi.com/journal/jimaging/special_issues/VVH4W48D4P" target="_blank"><em>Deep Learning for Image and Video Understanding Under Adverse and Degraded Conditions</em></a> (submissions open until 31 May 2027)</li>
+  <li>📄 <strong>2026</strong> — Paper published in <strong>IEEE Internet of Things Journal</strong>: <a href="https://doi.org/10.1109/JIOT.2026.3702682" target="_blank"><em>Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey</em></a></li>
     <li>🎓 <strong>Mar 2026</strong> — Appointed as <strong> Postdoctoral Research Associate </strong> at Ulsan National Institute of Science and Technology (UNIST), South Korea</li>
   <li>🏆 <strong>Feb 2026</strong> — Received the <strong>Outstanding Research Award</strong> presented by Sejong University, Seoul, South Korea</li>
   <li>🏆 <strong>Nov 2025</strong> — Received the <strong>Best Paper Award</strong> at the 2025 Fall Conference, Standard Certification Safety Society, South Korea</li>
