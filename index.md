@@ -8,8 +8,8 @@ Muhammad Munsif (Student Member, IEEE) received a Ph.D. degree in Software Conve
 ## News & Updates
 
 <ul class="news-list">
-      <li>🥉 <strong>Sep 2026</strong> — <strong>3rd Place (of 58 teams)</strong> in the <strong>MoCha 2026 Challenge on Parkinsonian Gait</strong>, MoCha Workshop at ECCV 2026 — team <em>unist_visionlab</em></li>
-  <li>🥈 <strong>Sep 2026</strong> — <strong>2nd Place</strong> in the <strong>Dexterous Grasp Motion Challenge</strong>, DexHAND (HANDS) Workshop at ECCV 2026 — team <em>UVLL HandDex</em> (UNIST with University of Aberdeen, UK), highest easy-track score of all submissions at 94.61% vs. a 23.93% organizer baseline</li>
+      <li>🥉 <strong>Sep 2026</strong> — <strong>3rd Place (of 58 teams)</strong> in the <strong>MoCha 2026 Challenge on Parkinsonian Gait</strong>, MoCha Workshop at ECCV 2026. Team: unist_visionlab</li>
+  <li>🥈 <strong>Sep 2026</strong> — <strong>2nd Place</strong> in the <strong>Dexterous Grasp Motion Challenge</strong>, DexHAND (HANDS) Workshop at ECCV 2026 — team <em>UVLL HandDex</em> (UNIST with University of Aberdeen, UK), highest easy-track score of all submissions.</li>
   <li>📝 <strong>2026</strong> — Appointed <strong>Guest Editor</strong> for the <em>Journal of Imaging</em> (MDPI) Special Issue on <em>Deep Learning for Image and Video Understanding Under Adverse and Degraded Conditions</em> (submissions open until 31 May 2027)</li>
   <li>📄 <strong>2026</strong> — Paper published in <strong>IEEE Internet of Things Journal</strong>: <em>Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey</em></li>
     <li>🎓 <strong>Mar 2026</strong> — Appointed as <strong> Postdoctoral Research Associate </strong> at Ulsan National Institute of Science and Technology (UNIST), South Korea</li>
