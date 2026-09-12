@@ -139,7 +139,7 @@ Digital Image Processing Lab, Islamia College Peshawar, Peshawar, Pakistan</p>
 
 <ul>
 <li><strong>3rd Place, MoCha 2026 Challenge on Parkinsonian Gait</strong> — Sep 2026<br>
-  <a href="https://mocha.care-pd.ca/leaderboard.html" target="_blank">MoCha Workshop at ECCV 2026 — leaderboard</a>. Team unist_visionlab, UNIST<br>
+  <a href="https://mocha.care-pd.ca/leaderboard.html" target="_blank">MoCha Workshop at ECCV 2026</a>. Team unist_visionlab, UNIST<br>
   Ranked 3rd of 58 teams on the hidden-site benchmark for domain-generalizable UPDRS-gait severity estimation</li>
 
 <li><strong>2nd Place, Dexterous Grasp Motion Challenge</strong> — Sep 2026<br>
