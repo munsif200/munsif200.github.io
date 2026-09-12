@@ -198,7 +198,7 @@ Digital Image Processing Lab, Islamia College Peshawar, Peshawar, Pakistan</p>
 Student Member | Member ID: 99765745<br>
 Active engagement in peer review, conferences, and professional development</p>
 
-<p><strong>Proposal Reviewer, Evaluated 3+ postdoctoral fellowship proposals <a href="https://www.neuroinsight.eu/" target="_blank">NeuroInsight Marie Skłodowska-Curie Actions (MSCA) COFUND Fellowship Programme</a></strong> — 2024 – Present<br>
+<p><strong> MSCA COFUND Proposal Reviewer, Evaluated 3+ postdoctoral fellowship proposals <a href="https://www.neuroinsight.eu/" target="_blank">NeuroInsight Marie Skłodowska-Curie Actions (MSCA) COFUND Fellowship Programme</a></strong> — 2024 – Present<br>
 <a href="https://www.rcsi.com/" target="_blank">Royal College of Surgeons in Ireland (RCSI)</a><br>.</p>
 
 <p><strong>Active Reviewer for Leading International Journals and Conferences</strong> — 2023 – Present<br>
