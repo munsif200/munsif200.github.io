@@ -60,8 +60,8 @@ Leading multiple research projects in AI, computer vision, and materials informa
 [![Email](https://img.shields.io/badge/Email-munsif3797@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:munsif3797@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-munsif200-black?style=for-the-badge&logo=github)](https://github.com/munsif200)
 
-**  Location:** Seoul, South Korea  
-**🏛️ Institution:** Sejong University, Seoul, South Korea.
+**  Location:** Ulsan, South Korea  
+**🏛️ Institution:** UNIST,Ulsan, South Korea.
 **  Research Areas:** Computer Vision • Deep Learning • VR/AR • Materials Informatics
 
 ---
