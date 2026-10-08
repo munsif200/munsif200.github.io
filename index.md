@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-Muhammad Munsif (Member, IEEE) received a Ph.D. degree in Software Convergence from Sejong University, Seoul, South Korea, in February 2026. Currently working as a Postdoctoral Research Associate (InnoCORE Fellow) at the Graduate School of Artificial Intelligence, UNIST, South Korea. His research interests include computer vision, vision-language models (VLMs), video analytics, multimodal and multi-view action recognition, intelligent systems, and virtual and augmented reality. He has published several research articles in high-impact peer-reviewed journals and conferences, including IEEE Transactions on Industrial Informatics, Advanced Engineering Informatics, Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Computers in Biology and Medicine, and CVPR Workshops. He actively contributes as a reviewer for leading international journals and conferences, including Conference on Computer Vision and Pattern Recognition (CVPR), IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Intelligent Transportation Systems, Knowledge-Based Systems, Expert Systems with Applications, Pattern Recognition, Neural Networks, and IEEE Access.
+Muhammad Munsif (Member, IEEE) received a Ph.D. degree in Software Convergence from Sejong University, Seoul, South Korea, in February 2026. I am currently working as a Postdoctoral Research Associate (InnoCORE Fellow) at the Graduate School of Artificial Intelligence, UNIST, South Korea. My research interests include computer vision, World Models, vision-language models (VLMs), video analytics, multimodal and multi-view action recognition, intelligent systems, and virtual and augmented reality. I have published several research articles in high-impact peer-reviewed journals and conferences, including IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, Advanced Engineering Informatics, Engineering Applications of Artificial Intelligence, Knowledge-Based Systems, Computers in Biology and Medicine, and CVPR Workshops. I actively contribute as a reviewer for leading international journals and conferences, including the Conference on Computer Vision and Pattern Recognition (CVPR), the British Machine Vision Conference (BMVC), the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Intelligent Transportation Systems, Knowledge-Based Systems, Expert Systems with Applications, Pattern Recognition, Neural Networks, and IEEE Access.
 
 ## News & Updates
 
@@ -216,6 +216,8 @@ Total Reviews Completed: 100+ across top-tier venues in AI, Computer Vision, and
 <li>IEEE Transactions on Intelligent Transportation Systems (4+)</li>
 <li>IEEE Transactions on Circuits and Systems for Video Technology (2+)</li>
 <li>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2+)</li>
+<li>British Machine Vision Conference (BMVC)(2)</li> 
+<li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)(2)</li>
 <li>Engineering Applications of Artificial Intelligence, Elsevier (9+)</li>
 <li>Expert Systems with Applications, Elsevier (6+)</li>
 <li>Knowledge-Based Systems, Elsevier (11+)</li>
