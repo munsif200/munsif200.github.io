@@ -15,8 +15,8 @@ Dr. Muhammad Munsif is a dedicated researcher specializing in:
 - Materials science applications using AI and machine learning
 
 ### 🏛️ Current Position
-**Researcher** | Intelligent Media Laboratory, Sejong University, Seoul, South Korea  
-*September 2021 - Present*
+**Researcher** | Postdoctoral Research Associate (InnoCORE Fellow) at the Graduate School of Artificial Intelligence, UNIST, South Korea  
+*March 2026 - Present*
 
 Leading multiple research projects in AI, computer vision, and materials informatics. Actively contributing to international collaborations and publishing in top-tier journals and conferences.
 
@@ -60,9 +60,9 @@ Leading multiple research projects in AI, computer vision, and materials informa
 [![Email](https://img.shields.io/badge/Email-munsif3797@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:munsif3797@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-munsif200-black?style=for-the-badge&logo=github)](https://github.com/munsif200)
 
-**  Location:** Ulsan, South Korea  
+**Location:** Ulsan, South Korea  
 **🏛️ Institution:** UNIST,Ulsan, South Korea.
-**  Research Areas:** Computer Vision • Deep Learning • VR/AR • Materials Informatics
+**Research Areas:** Computer Vision • Deep Learning • VR/AR • Materials Informatics
 
 ---
 
