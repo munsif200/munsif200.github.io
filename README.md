@@ -62,7 +62,6 @@ Leading multiple research projects in AI, computer vision, and materials informa
 
 **Location:** Ulsan, South Korea  
 **🏛️ Institution:** UNIST,Ulsan, South Korea.
-**Research Areas:** Computer Vision • Deep Learning • VR/AR • Materials Informatics
 
 ---
 
